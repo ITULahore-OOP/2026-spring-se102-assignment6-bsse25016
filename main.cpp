@@ -11,8 +11,7 @@ int main()
     Warrior* warrior;
     Knight* knight;
     SpellBlade* spellBlade;
-    MagicalEntity* magicalEntity;
-
+    
     string name;
     cout << "Enter name of guild you wish to establish: ";
     getline(cin, name);
